@@ -1,6 +1,6 @@
 # Welcome to my DAM repository!
 ## These are my projects from the **DAM course**.
-### Tecnologías
+### Technologies
 - Java
 - Kotlin
 <!--
