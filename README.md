@@ -1,5 +1,8 @@
-## Hi there 👋
-
+# Welcome to my DAM repository!
+## These are my projects from the **DAM course**.
+### Tecnologías
+- Java
+- Kotlin
 <!--
 **CauaHino/CauaHino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
