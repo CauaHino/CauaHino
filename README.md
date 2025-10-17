@@ -3,3 +3,4 @@
 ### Technologies
 - Java
 - Kotlin
+- JavaScript
