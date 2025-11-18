@@ -25,10 +25,17 @@ Below is a list of the programming languages and technologies I work with:
 * **PostgreSQL:** Design, querying, and administration of relational databases (SQL).
 
 ---
+## 🗣️ Languages
+
+As a keen communicator, I am proficient in several languages:
+
+* **Spanish:** Native
+* **Portuguese:** Native
+* **English:** Advanced
 
 ## 📬 Contact
 
 I would love to connect and collaborate on interesting projects!
 
-* **LinkedIn:** [https://es.linkedin.com/in/caua-mendes-hino-9b9917398]
+* **LinkedIn:** https://es.linkedin.com/in/caua-mendes-hino-9b9917398
 * **Email:** <hino.caua@hotmail.com>
