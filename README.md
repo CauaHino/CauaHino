@@ -1,4 +1,4 @@
-# 👋 Hello! I'm <Your Full Name>
+# 👋 Hello! I'm Caua Hino
 
 ## 🎓 About Me
 
@@ -16,6 +16,7 @@ Below is a list of the programming languages and technologies I work with:
 * **Python:** Script development, automation, and backend (e.g., with frameworks like Flask/Django).
 * **Java:** Desktop and backend application development, including Object-Oriented Programming (OOP).
 * **JavaScript:** Interactive web development and frontend logic.
+* **PHP:** Server-side scripting, dynamic web content generation, and database integration (widely used in CMSs like WordPress).
 
 ### 🌐 Web Development
 * **HTML5:** Semantic structuring of web content.
