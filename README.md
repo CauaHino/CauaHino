@@ -15,12 +15,12 @@ Below is a list of the programming languages and technologies I work with:
 ### 💻 Programming and Scripting Languages
 * **Python:** Script development, automation, and backend (e.g., with frameworks like Flask/Django).
 * **Java:** Desktop and backend application development, including Object-Oriented Programming (OOP).
-* **JavaScript:** Interactive web development and frontend logic.
 * **PHP:** Server-side scripting, dynamic web content generation, and database integration (widely used in CMSs like WordPress).
 
 ### 🌐 Web Development
 * **HTML5:** Semantic structuring of web content.
 * **CSS3:** Styling and responsive design of interfaces.
+* **JavaScript:** Interactive web development and frontend logic.
 
 ### 🗃️ Database Management
 * **PostgreSQL:** Design, querying, and administration of relational databases (SQL).
